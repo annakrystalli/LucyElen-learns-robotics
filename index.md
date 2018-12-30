@@ -11,7 +11,21 @@ We started by asking Twitter for some advice:
 
 ### Kids Coding / Robotics clubs
 
-#### 
+#### devoxx4kids
+
+The devoxx4kids Netherlands Chapter
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Same thing with my daughter. My advice is to participate to a <a href="https://twitter.com/devoxx4kidsnl?ref_src=twsrc%5Etfw">@devoxx4kidsnl</a> <a href="https://t.co/PtAFWRW7gn">https://t.co/PtAFWRW7gn</a><br>This is really fun!<br>We also attend 🇫🇷  &quot;coding goûters&quot; <a href="https://t.co/4AQ6AVeyaP">https://t.co/4AQ6AVeyaP</a><br>I don&#39;t know whether there&#39;s same events in 🇳🇱</p>&mdash; Romain Lesur (@RLesur) <a href="https://twitter.com/RLesur/status/1078202468595580928?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">All the games/robots/softwares are multilingual. For instance, you can build a <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a> project and change the language. I think it is ok. But I don&#39;t know if the <a href="https://twitter.com/devoxx4kidsnl?ref_src=twsrc%5Etfw">@devoxx4kidsnl</a> events are in 🇳🇱 or 🇬🇧</p>&mdash; Romain Lesur (@RLesur) <a href="https://twitter.com/RLesur/status/1078206044646621189?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+
+
 #### 
 
 
@@ -42,6 +56,14 @@ Great introduction to electronics and programming.
 ![](https://cdn-learn.adafruit.com/assets/assets/000/057/832/original/makecode_2018-07-19_18_38_02.gif?1532108739)
 
 ### micro:bit
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">My recommendation is <a href="https://twitter.com/codeforlifeuk?ref_src=twsrc%5Etfw">@codeforlifeuk</a> (to learn Python) and <a href="https://twitter.com/microbit_edu?ref_src=twsrc%5Etfw">@microbit_edu</a> (to learn &quot;robotics&quot;). I have something from Collaborations Workshop 2017 that you can ship to her. And send me suggestions for Collaborations Workshop 2019 prize so that you can win for her. :-)</p>&mdash; Raniere Silva (@rgaiacs) <a href="https://twitter.com/rgaiacs/status/1078652274304528385?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I think Micro:bit and <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a> are good for 12yr old</p>&mdash; Tuan PM (@tuanpmt) <a href="https://twitter.com/tuanpmt/status/1078259412584689664?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ## Robots
 
@@ -87,6 +109,23 @@ The Crafty Robot is a battery free moving paper robot and the basis for infinite
 - If you’ve got access to a 3D printer download [STLs](https://en.wikipedia.org/wiki/STL_(file_format)) of our designs from [Thingiverse](https://www.thingiverse.com/)
 
 <iframe src="https://player.vimeo.com/video/146662662" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+### [Marty](https://robotical.io/shop/sku/1) by [Robotical ltd](https://robotical.io/)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The inventor designed Marty on the side of a PhD on robotic limbs for his niece.<br><br>They are firmly focussed on tying Marty in to supporting the school curruculum for computing and are writing project materials to support that aim.<a href="https://t.co/RfLmVD1WCR">https://t.co/RfLmVD1WCR</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078684697251799042?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Marty is a fully programmable robot, designed to give kids a fun and hands-on introduction to coding and robotics. Marty is also an expandable robot, perfect for makers and educators.
+
+- Marty is Wi-Fi enabled and with **nine individually controllable servo motors**. 
+
+- You can use our app to remote control Marty, and add a bunch of sensors to react to the environment.
+
+- You can program Marty using **Scratch**, a beginner friendly coding language, and then advance on to **Python**, **Javascript** and even **ROS**.
+
+- Designed to be customisable robot with 3D printed parts, Marty is also completely upgradeable — you can even add a Raspberry Pi and a camera to Marty's head!
+
 
 ***
 
