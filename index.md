@@ -55,18 +55,42 @@ Great introduction to electronics and programming.
 - It complements & extends the Circuit Playground so you can still use all the goodies on the CPX, but now you have a robotics playground as well.
 - Bolt on your Circuit Playground using the included stand-off bolts and start controlling motors, servos, solenoids. 
 - You also get **signal pins**, **capacitive touch sensors**, a **NeoPixel driver** and **amplified speaker output**. 
+- Crickit [projects](https://learn.adafruit.com/category/crickit)
 
 
-#### Crickit [projects](https://learn.adafruit.com/category/crickit)
-
-### [Smartibot](https://www.kickstarter.com/projects/460355237/smartibot-the-worlds-first-ai-enabled-cardboard-ro?ref=thanks_tweet)
+### [Smartibot](https://www.kickstarter.com/projects/460355237/smartibot-the-worlds-first-ai-enabled-cardboard-ro?ref=thanks_tweet) by [The Crafty Robot](http://thecraftyrobot.net/wp/)
 
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Circuit playground express and a Crickit from <a href="https://twitter.com/adafruit?ref_src=twsrc%5Etfw">@adafruit</a> is a great start. It’s not on general sale yet (I think) I’d also check out the delightful Smartibot from <a href="https://twitter.com/CraftyRobot?ref_src=twsrc%5Etfw">@CraftyRobot</a></p>&mdash; Helen Leigh⚡️is at 35C3 (@helenleigh) <a href="https://twitter.com/helenleigh/status/1078229712219054090?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Firstly this is SO CUTE! and a crowdfunded project 
+
+**Details**
+
+The world’s first **Artificial Intelligence enabled cardboard robot** that you build yourself.
+
+Smartibot **works with your smartphone**, meaning you can use your mobile as a remote control, or by attaching it to your robot, as it’s brain.  
+
+- The Smartibot app **contains a powerful A.I.** called YOLO which can recognise objects Smartibot sees such as people, cars, dogs and bicycles. 
+
+- Without any programming you can tell your robot to follow you around with a cup of tea, chase your dog or your cat out of your bedroom or even follow your toy car.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qjd_8UMCvPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+### [Crafty Robot](http://thecraftyrobot.net/wp/)
+
+The Crafty Robot is a battery free moving paper robot and the basis for infinite robot creations of your own invention
+
+- Download Free Templates to use with your Fizzbit. Turn your robot into a unicorn, or a zombie, or a pug! All you need is a standard printer, some card, scissors and glue
+- If you’ve got access to a 3D printer download [STLs](https://en.wikipedia.org/wiki/STL_(file_format)) of our designs from [Thingiverse](https://www.thingiverse.com/)
+
+<iframe src="https://player.vimeo.com/video/146662662" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+***
+
+<br>
 
 
 ## Books / Online-resources
