@@ -18,6 +18,10 @@ We started by asking Twitter for some advice:
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">All the games/robots/softwares are multilingual. For instance, you can build a <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a> project and change the language. I think it is ok. But I don&#39;t know if the <a href="https://twitter.com/devoxx4kidsnl?ref_src=twsrc%5Etfw">@devoxx4kidsnl</a> events are in 🇳🇱 or 🇬🇧</p>&mdash; Romain Lesur (@RLesur) <a href="https://twitter.com/RLesur/status/1078206044646621189?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Also <a href="https://twitter.com/Devoxx4Kids?ref_src=twsrc%5Etfw">@Devoxx4Kids</a> has some robotics workshops including with <a href="https://twitter.com/NaoRobot?ref_src=twsrc%5Etfw">@NaoRobot</a> if I&#39;m not mistaken :)</p>&mdash; Céline Boudier (@CelineBoudier) <a href="https://twitter.com/CelineBoudier/status/1078675125283770369?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 - Why ? Showing teenagers that it is possible to do something more creative with computers.
 - Goal: Introduce teenagers to programming, robotics and engineering in a fun way.
@@ -42,8 +46,22 @@ We started by asking Twitter for some advice:
 - Check [Events](https://wiki.techinc.nl/index.php/Events) page for kids events
 
 
+### [Raspberry Jam Amsterdam](https://raspberryjamamsterdam.com/)
 
-## Hardware
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Yes indeedy! We&#39;re just trying to figure out a venue for our next Jam but we should have one coming up in the first half of 2019!</p>&mdash; Andy Warburton 👾 (@awarburton) <a href="https://twitter.com/awarburton/status/1078692657319227393?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+THE MEETUP FOR RASPBERRY PI LOVERS IN AMSTERDAM
+
+- The [Raspberry Pi](https://www.raspberrypi.org/) is a low cost computer designed for educational purposes but it's capable of so much more! From playing classic arcade games to experimenting on the ISS! 
+- [Join their email list](https://mailchi.mp/9d4d0305d56d/jamup) to be notified about our next Jam!
+
+
+***
+
+<br>
+
+## Hardware 
 
 ### [Circuit Playground Express](https://www.adafruit.com/product/3333) (by [adafruit](https://www.adafruit.com/))
 
