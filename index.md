@@ -21,6 +21,8 @@ We started by asking Twitter for some advice:
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Also <a href="https://twitter.com/Devoxx4Kids?ref_src=twsrc%5Etfw">@Devoxx4Kids</a> has some robotics workshops including with <a href="https://twitter.com/NaoRobot?ref_src=twsrc%5Etfw">@NaoRobot</a> if I&#39;m not mistaken :)</p>&mdash; Céline Boudier (@CelineBoudier) <a href="https://twitter.com/CelineBoudier/status/1078675125283770369?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Events are usually in Dutch, but kids are flexible and so are volunteers!<br>Keep a look out on our website to see when the next events will be hosted. <a href="https://t.co/ZnHdgIbTXA">https://t.co/ZnHdgIbTXA</a></p>&mdash; Devoxx4KidsNL (@devoxx4kidsnl) <a href="https://twitter.com/devoxx4kidsnl/status/1078571011338059776?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 - Why ? Showing teenagers that it is possible to do something more creative with computers.
@@ -59,7 +61,22 @@ THE MEETUP FOR RASPBERRY PI LOVERS IN AMSTERDAM
 
 ***
 
-<br>
+<br>### [Waag](https://waag.org/)
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/waag?ref_src=twsrc%5Etfw">@waag</a> organize great workshops. Also in central library, there are makerEd workshops every friday.</p>&mdash; Sanli Faez (@sanli) <a href="https://twitter.com/sanli/status/1078562694226153472?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Waag has been operating at the crossroads of art, science and technology for almost 25 years. It explores the social and cultural impact of new technologies from the values open, fair & inclusive.
+
+
+### More local communities
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Also, have a look at <a href="https://t.co/kuDXDXkqpD">https://t.co/kuDXDXkqpD</a> where you can have a look at all the other organisaties out there.</p>&mdash; Saskia Vermeer-Ooms (@momatwork) <a href="https://twitter.com/momatwork/status/1078572395915550720?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
 
 ## Hardware 
 
