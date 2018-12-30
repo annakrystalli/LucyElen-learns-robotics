@@ -9,11 +9,8 @@ We started by asking Twitter for some advice:
 
 ## Local communities
 
-### Kids Coding / Robotics clubs
-
-#### devoxx4kids
-
-The devoxx4kids Netherlands Chapter
+### [devoxx4kids](http://www.devoxx4kids.org/)
+**The devoxx4kids [Netherlands Chapter](http://www.devoxx4kids.org/nederland/):**
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Same thing with my daughter. My advice is to participate to a <a href="https://twitter.com/devoxx4kidsnl?ref_src=twsrc%5Etfw">@devoxx4kidsnl</a> <a href="https://t.co/PtAFWRW7gn">https://t.co/PtAFWRW7gn</a><br>This is really fun!<br>We also attend 🇫🇷  &quot;coding goûters&quot; <a href="https://t.co/4AQ6AVeyaP">https://t.co/4AQ6AVeyaP</a><br>I don&#39;t know whether there&#39;s same events in 🇳🇱</p>&mdash; Romain Lesur (@RLesur) <a href="https://twitter.com/RLesur/status/1078202468595580928?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -22,13 +19,27 @@ The devoxx4kids Netherlands Chapter
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+- Why ? Showing teenagers that it is possible to do something more creative with computers.
+- Goal: Introduce teenagers to programming, robotics and engineering in a fun way.
+- How ? Devoxx4Kids organizes events worldwide where children can develop computer games, program robots and also have an introduction to electronics.
+- Materials [open on GitHub](https://github.com/devoxx4kids/materials)!
+
+<iframe src="https://player.vimeo.com/video/81414450" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
+#### Technologia Incognita: Amsterdam hacker space
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Amsterdam hacker space does semi regular kids days. Have a look on <a href="https://t.co/eLZ9CEr5wz">https://t.co/eLZ9CEr5wz</a>.</p>&mdash; quixoticgeek (@quixoticgeek) <a href="https://twitter.com/quixoticgeek/status/1078212558610403328?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-#### 
+- Technologia Incognita is a hackerspace in Amsterdam.
 
+- The hackspace is located at Louwesweg 1 which is in the ACTA building.
 
+- They are a vereniging (association) and fund their space and tools from member donations.
+
+- Check [Events](https://wiki.techinc.nl/index.php/Events) page for kids events
 
 
 
@@ -112,6 +123,10 @@ The Crafty Robot is a battery free moving paper robot and the basis for infinite
 
 
 ### [Marty](https://robotical.io/shop/sku/1) by [Robotical ltd](https://robotical.io/)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you! Marty was created to introduce kids like your niece to robotics. Teaches engineering, mechanics, coding with activities etc</p>&mdash; Robotical (@RoboticalLtd) <a href="https://twitter.com/RoboticalLtd/status/1078360533550665728?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The inventor designed Marty on the side of a PhD on robotic limbs for his niece.<br><br>They are firmly focussed on tying Marty in to supporting the school curruculum for computing and are writing project materials to support that aim.<a href="https://t.co/RfLmVD1WCR">https://t.co/RfLmVD1WCR</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078684697251799042?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
