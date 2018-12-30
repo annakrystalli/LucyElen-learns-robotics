@@ -127,6 +127,10 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 - Designed to be customisable robot with 3D printed parts, Marty is also completely upgradeable — you can even add a Raspberry Pi and a camera to Marty's head!
 
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I have one myself. They are real cute and extendable &amp; moddable, if your daughter catches the maker/hacker bug. <a href="https://t.co/1UU4oxgzTd">pic.twitter.com/1UU4oxgzTd</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078691894316675073?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ***
 
 <br>
