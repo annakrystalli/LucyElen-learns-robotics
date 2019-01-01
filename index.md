@@ -126,13 +126,19 @@ Great introduction to electronics and programming.
 
 <br>
 
-### Raspberry Pi
+### [Raspberry Pi](https://www.raspberrypi.org/)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">My 7yo loves Lego BOOST. We are also learning about code through <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a>. Might move to DIY <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> kits eg pi top or Kano in the future.</p>&mdash; Kevin M Moermⓐn (@KMMoerman) <a href="https://twitter.com/KMMoerman/status/1078218267536314368?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">If she wants to get started with sensors etc before adding motor control, you could get her a Pi Hat - the sensor block that went to the ISS. There’s some cool stuff for that on the Pi Foundation website and in the magazine - it might be worth getting her a subscription</p>&mdash; samantha ahern (@2standandstare) <a href="https://twitter.com/2standandstare/status/1078232757711634432?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+A small and affordable computer that you can use to learn programming!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXUjwk2-qx4" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
@@ -159,7 +165,7 @@ spread knowledge, fun, and ideas
 
 **Their name**: Pimoroni stands for Pirate, Monkey, Robot, Ninja (Pi-Mo-Ro-Ni) and sounds like the name of an expensive Italian lager. It’s pronounced Pih-mo-row-knee. You’ll see the pirate (and his friends) pop up throughout our branding.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CKqZhqOkS5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKqZhqOkS5o" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -201,7 +207,7 @@ Smartibot **works with your smartphone**, meaning you can use your mobile as a r
 
 - Without any programming you can tell your robot to follow you around with a cup of tea, chase your dog or your cat out of your bedroom or even follow your toy car.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qjd_8UMCvPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qjd_8UMCvPQ" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### [Crafty Robot](http://thecraftyrobot.net/wp/)
@@ -270,6 +276,14 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">My 7yo loves Lego BOOST. We are also learning about code through <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a>. Might move to DIY <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> kits eg pi top or Kano in the future.</p>&mdash; Kevin M Moermⓐn (@KMMoerman) <a href="https://twitter.com/KMMoerman/status/1078218267536314368?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Lego mindstorms kit or a raspberry pi and robot kit from RS Components</p>&mdash; samantha ahern (@2standandstare) <a href="https://twitter.com/2standandstare/status/1078215715713368065?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">The Lego mindstorms to can put NXC and Robot C on , and it comes with a GUI IDE to get started with before hitting the code. With the Pi, it’s straight into code. The pi kit is definitely cheaper but harder to get started with.</p>&mdash; samantha ahern (@2standandstare) <a href="https://twitter.com/2standandstare/status/1078230631866396673?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I’d still go with the mindstorms, there’s so many sensors etc that you can just add to the controller brick. Am I am biased as it’s what I used for my MSc Dissertation. It just gives you more options.</p>&mdash; samantha ahern (@2standandstare) <a href="https://twitter.com/2standandstare/status/1078231670581587968?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ***
@@ -298,4 +312,10 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 
 Cool video of ***Helen Leigh: Making the Mini.Mu, a sewable, codeable instrument for kids***
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Otk5WIAgVSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Otk5WIAgVSE" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Video of **Samantha Ahern's talk on her master's project on smart cars and navigation!**
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">The video of my talk from a few years back on smart cars and navigation is still on YouTube: <a href="https://t.co/6Y6pq59v2k">https://t.co/6Y6pq59v2k</a></p>&mdash; samantha ahern (@2standandstare) <a href="https://twitter.com/2standandstare/status/1078233312823595008?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
