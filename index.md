@@ -9,9 +9,9 @@ We started by **asking the Twitterverse for some advice**:
 
 We've collected them into this webpage hosted on GitHub to start learning about version control, markdown, html and open source! So feel free to contribute more!
 
-*<br>
+<br>
 
-**
+***
 
 ## Local communities
 
@@ -151,14 +151,12 @@ A small and affordable computer that you can use to learn programming!
 
 ### [pimoroni](https://shop.pimoroni.com/)
 
-Sheffield based mechatronics legends!
-
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I see you are Sheffield based. Have you come across <a href="https://twitter.com/pimoroni?ref_src=twsrc%5Etfw">@pimoroni</a> (also Sheffield based)? <br><br>They design and manufacture lots of cool add-ons for Raspberry Pis &amp; BBC Micro:Bits and have created a cost-effective wheeled robot kit for a Pi (STS-Pi)<a href="https://t.co/pSxWtVfRYW">https://t.co/pSxWtVfRYW</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078702972312449025?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ![](https://cdn.shopify.com/s/files/1/0174/1800/t/62/assets/shop-logo.png?15782592209085612304)
 
 **Sheffield based electronics legends!**
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I see you are Sheffield based. Have you come across <a href="https://twitter.com/pimoroni?ref_src=twsrc%5Etfw">@pimoroni</a> (also Sheffield based)? <br><br>They design and manufacture lots of cool add-ons for Raspberry Pis &amp; BBC Micro:Bits and have created a cost-effective wheeled robot kit for a Pi (STS-Pi)<a href="https://t.co/pSxWtVfRYW">https://t.co/pSxWtVfRYW</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078702972312449025?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 **Who they are:** they design, manufacture, and sell tech treasure for tinkerers, makers, educators and creatives, compatible with: 
