@@ -58,6 +58,8 @@ THE MEETUP FOR RASPBERRY PI LOVERS IN AMSTERDAM
 - The [Raspberry Pi](https://www.raspberrypi.org/) is a low cost computer designed for educational purposes but it's capable of so much more! From playing classic arcade games to experimenting on the ISS! 
 - [Join their email list](https://mailchi.mp/9d4d0305d56d/jamup) to be notified about our next Jam!
 
+
+
 ### [Waag](https://waag.org/)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/waag?ref_src=twsrc%5Etfw">@waag</a> organize great workshops. Also in central library, there are makerEd workshops every friday.</p>&mdash; Sanli Faez (@sanli) <a href="https://twitter.com/sanli/status/1078562694226153472?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
@@ -109,6 +111,19 @@ Great introduction to electronics and programming.
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I think Micro:bit and <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a> are good for 12yr old</p>&mdash; Tuan PM (@tuanpmt) <a href="https://twitter.com/tuanpmt/status/1078259412584689664?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+- The **BBC micro:bit** is a handheld, programmable micro-computer that can be used for all sorts of cool creations, from robots to musical instruments – the possibilities are endless.
+
+- It can be coded from any web browser in **Blocks, Javascript, Python, Scratch** and more; no software required.
+
+- Get Inspired with [over 200 different activities and resources to try](https://microbit.org/ideas/), from easy experiments to creative coding challenges.
+
+
+<img src="https://microbit.org/images/microbit-front.png" width=250px><img src="https://microbit.org/images/both-editors.png" width=350px>
+
+
+<br>
+
+***
 
 
 ## Robots
