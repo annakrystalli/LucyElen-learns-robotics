@@ -58,10 +58,7 @@ THE MEETUP FOR RASPBERRY PI LOVERS IN AMSTERDAM
 - The [Raspberry Pi](https://www.raspberrypi.org/) is a low cost computer designed for educational purposes but it's capable of so much more! From playing classic arcade games to experimenting on the ISS! 
 - [Join their email list](https://mailchi.mp/9d4d0305d56d/jamup) to be notified about our next Jam!
 
-
-***
-
-<br>### [Waag](https://waag.org/)
+### [Waag](https://waag.org/)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/waag?ref_src=twsrc%5Etfw">@waag</a> organize great workshops. Also in central library, there are makerEd workshops every friday.</p>&mdash; Sanli Faez (@sanli) <a href="https://twitter.com/sanli/status/1078562694226153472?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -77,6 +74,9 @@ Waag has been operating at the crossroads of art, science and technology for alm
 
 
 
+***
+
+<br>
 
 ## Hardware 
 
@@ -179,6 +179,32 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I have one myself. They are real cute and extendable &amp; moddable, if your daughter catches the maker/hacker bug. <a href="https://t.co/1UU4oxgzTd">pic.twitter.com/1UU4oxgzTd</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078691894316675073?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### miscellaneous
+#### [pimoroni](https://shop.pimoroni.com/)
+
+Sheffield based mechatronics legends!
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I see you are Sheffield based. Have you come across <a href="https://twitter.com/pimoroni?ref_src=twsrc%5Etfw">@pimoroni</a> (also Sheffield based)? <br><br>They design and manufacture lots of cool add-ons for Raspberry Pis &amp; BBC Micro:Bits and have created a cost-effective wheeled robot kit for a Pi (STS-Pi)<a href="https://t.co/pSxWtVfRYW">https://t.co/pSxWtVfRYW</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078702972312449025?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](https://cdn.shopify.com/s/files/1/0174/1800/t/62/assets/shop-logo.png?15782592209085612304)
+
+**Sheffield based electronics legends!**
+
+
+**Who they are:** they design, manufacture, and sell tech treasure for tinkerers, makers, educators and creatives, compatible with: 
+- Raspberry Pi
+- Micro:bit
+- Arduino
+
+**Their mission:** make electronics accessible and attractive
+spread knowledge, fun, and ideas
+
+**Their name**: Pimoroni stands for Pirate, Monkey, Robot, Ninja (Pi-Mo-Ro-Ni) and sounds like the name of an expensive Italian lager. It’s pronounced Pih-mo-row-knee. You’ll see the pirate (and his friends) pop up throughout our branding.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKqZhqOkS5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ***
