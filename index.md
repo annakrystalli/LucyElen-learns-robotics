@@ -111,6 +111,10 @@ Great introduction to electronics and programming.
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I think Micro:bit and <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a> are good for 12yr old</p>&mdash; Tuan PM (@tuanpmt) <a href="https://twitter.com/tuanpmt/status/1078259412584689664?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Get them onto <a href="https://t.co/E4gyY7bdRC">https://t.co/E4gyY7bdRC</a> first to pick up some basics on coding. Think about a basic kit to start to see if she is super keen. Something like a <a href="https://twitter.com/littleBits?ref_src=twsrc%5Etfw">@littleBits</a> or <a href="https://twitter.com/microbit_edu?ref_src=twsrc%5Etfw">@microbit_edu</a></p>&mdash; Mr. OatesSoSimple (@MrOatesSoSimple) <a href="https://twitter.com/MrOatesSoSimple/status/1078355337307176960?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 - The **BBC micro:bit** is a handheld, programmable micro-computer that can be used for all sorts of cool creations, from robots to musical instruments – the possibilities are endless.
 
 - It can be coded from any web browser in **Blocks, Javascript, Python, Scratch** and more; no software required.
@@ -120,10 +124,17 @@ Great introduction to electronics and programming.
 
 <img src="https://microbit.org/images/microbit-front.png" width=250px><img src="https://microbit.org/images/both-editors.png" width=350px>
 
-
 <br>
 
-***<br>
+### Raspberry Pi
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">My 7yo loves Lego BOOST. We are also learning about code through <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a>. Might move to DIY <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> kits eg pi top or Kano in the future.</p>&mdash; Kevin M Moermⓐn (@KMMoerman) <a href="https://twitter.com/KMMoerman/status/1078218267536314368?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+<br>
 
 
 ### [pimoroni](https://shop.pimoroni.com/)
@@ -152,6 +163,9 @@ spread knowledge, fun, and ideas
 
 
 
+<br>
+
+***
 
 
 ## Robots
@@ -202,6 +216,10 @@ The Crafty Robot is a battery free moving paper robot and the basis for infinite
 
 ### [Marty](https://robotical.io/shop/sku/1) by [Robotical ltd](https://robotical.io/)
 
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/RoboticalLtd?ref_src=twsrc%5Etfw">@RoboticalLtd</a> have a brilliant product that gives very quick and easy ‘wins’, with no soldering required and easy programming options.</p>&mdash; John (@semanticist) <a href="https://twitter.com/semanticist/status/1078289565692149761?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you! Marty was created to introduce kids like your niece to robotics. Teaches engineering, mechanics, coding with activities etc</p>&mdash; Robotical (@RoboticalLtd) <a href="https://twitter.com/RoboticalLtd/status/1078360533550665728?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -244,18 +262,40 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 - Ohbot [speaks Dutch](https://www.youtube.com/watch?v=3kBK_mzNy-4&index=16&list=PL_RmLy9i0Hwnyvrl06uz1OG5b0XuGX8QZ)!
 
 
-### misce>
+<br>
+
+### Lego robotics
+
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">My 7yo loves Lego BOOST. We are also learning about code through <a href="https://twitter.com/scratch?ref_src=twsrc%5Etfw">@scratch</a>. Might move to DIY <a href="https://twitter.com/Raspberry_Pi?ref_src=twsrc%5Etfw">@Raspberry_Pi</a> kits eg pi top or Kano in the future.</p>&mdash; Kevin M Moermⓐn (@KMMoerman) <a href="https://twitter.com/KMMoerman/status/1078218267536314368?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+***
+
+<br>
 
 
 ## Books / Online-resources
 
+### Learn to code
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">My recommendation is <a href="https://twitter.com/codeforlifeuk?ref_src=twsrc%5Etfw">@codeforlifeuk</a> (to learn Python) and <a href="https://twitter.com/microbit_edu?ref_src=twsrc%5Etfw">@microbit_edu</a> (to learn &quot;robotics&quot;). I have something from Collaborations Workshop 2017 that you can ship to her. And send me suggestions for Collaborations Workshop 2019 prize so that you can win for her. :-)</p>&mdash; Raniere Silva (@rgaiacs) <a href="https://twitter.com/rgaiacs/status/1078652274304528385?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">Get them onto <a href="https://t.co/E4gyY7bdRC">https://t.co/E4gyY7bdRC</a> first to pick up some basics on coding. Think about a basic kit to start to see if she is super keen. Something like a <a href="https://twitter.com/littleBits?ref_src=twsrc%5Etfw">@littleBits</a> or <a href="https://twitter.com/microbit_edu?ref_src=twsrc%5Etfw">@microbit_edu</a></p>&mdash; Mr. OatesSoSimple (@MrOatesSoSimple) <a href="https://twitter.com/MrOatesSoSimple/status/1078355337307176960?ref_src=twsrc%5Etfw">December 27, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ### The Crafty Kids Guide to DIY Electronics: 
-#### 20 Fun Projects for Makers, Crafters, and Everyone in Between
-#### _by Helen Leigh_
+
+**20 Fun Projects for Makers, Crafters, and Everyone in Between** ***by Helen Leigh**
 
 [![](https://images-na.ssl-images-amazon.com/images/I/81dUoW6ojfL.jpg)](https://www.amazon.co.uk/Crafty-Kids-Guide-DIY-Electronics/dp/1260142833/)
 
 
-Cool video of **Helen Leigh: Making the Mini.Mu, a sewable, codeable instrument for kids***
+Cool video of ***Helen Leigh: Making the Mini.Mu, a sewable, codeable instrument for kids***
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Otk5WIAgVSE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
