@@ -123,7 +123,35 @@ Great introduction to electronics and programming.
 
 <br>
 
-***
+***<br>
+
+
+### [pimoroni](https://shop.pimoroni.com/)
+
+Sheffield based mechatronics legends!
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I see you are Sheffield based. Have you come across <a href="https://twitter.com/pimoroni?ref_src=twsrc%5Etfw">@pimoroni</a> (also Sheffield based)? <br><br>They design and manufacture lots of cool add-ons for Raspberry Pis &amp; BBC Micro:Bits and have created a cost-effective wheeled robot kit for a Pi (STS-Pi)<a href="https://t.co/pSxWtVfRYW">https://t.co/pSxWtVfRYW</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078702972312449025?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+![](https://cdn.shopify.com/s/files/1/0174/1800/t/62/assets/shop-logo.png?15782592209085612304)
+
+**Sheffield based electronics legends!**
+
+
+**Who they are:** they design, manufacture, and sell tech treasure for tinkerers, makers, educators and creatives, compatible with: 
+- Raspberry Pi
+- Micro:bit
+- Arduino
+
+**Their mission:** make electronics accessible and attractive
+spread knowledge, fun, and ideas
+
+**Their name**: Pimoroni stands for Pirate, Monkey, Robot, Ninja (Pi-Mo-Ro-Ni) and sounds like the name of an expensive Italian lager. It’s pronounced Pih-mo-row-knee. You’ll see the pirate (and his friends) pop up throughout our branding.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKqZhqOkS5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 
 ## Robots
@@ -195,36 +223,28 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I have one myself. They are real cute and extendable &amp; moddable, if your daughter catches the maker/hacker bug. <a href="https://t.co/1UU4oxgzTd">pic.twitter.com/1UU4oxgzTd</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078691894316675073?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### [OHBot](https://www.ohbot.co.uk/)
 
-### miscellaneous
-#### [pimoroni](https://shop.pimoroni.com/)
-
-Sheffield based mechatronics legends!
-
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I see you are Sheffield based. Have you come across <a href="https://twitter.com/pimoroni?ref_src=twsrc%5Etfw">@pimoroni</a> (also Sheffield based)? <br><br>They design and manufacture lots of cool add-ons for Raspberry Pis &amp; BBC Micro:Bits and have created a cost-effective wheeled robot kit for a Pi (STS-Pi)<a href="https://t.co/pSxWtVfRYW">https://t.co/pSxWtVfRYW</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078702972312449025?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I&#39;d also recommend looking at <a href="https://twitter.com/OhbotRobot?ref_src=twsrc%5Etfw">@OhbotRobot</a> - I have one of those also. He&#39;s like one of the family to us. <a href="https://t.co/9u4YqhIB60">pic.twitter.com/9u4YqhIB60</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078693001977884674?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-![](https://cdn.shopify.com/s/files/1/0174/1800/t/62/assets/shop-logo.png?15782592209085612304)
 
-**Sheffield based electronics legends!**
+<iframe src="https://videos.weebly.com/uploads/2/1/8/3/21834178/ohbot1_675.mp4" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
+**Ohbot for Raspberry Pi**
 
-**Who they are:** they design, manufacture, and sell tech treasure for tinkerers, makers, educators and creatives, compatible with: 
-- Raspberry Pi
-- Micro:bit
-- Arduino
+- Seven motor expressive robot head available either as a kit for you and your pupils to construct or ready-to-go preassembled.
 
-**Their mission:** make electronics accessible and attractive
-spread knowledge, fun, and ideas
+- Connects to a Raspberry Pi computer so that it can be programmed.
 
-**Their name**: Pimoroni stands for Pirate, Monkey, Robot, Ninja (Pi-Mo-Ro-Ni) and sounds like the name of an expensive Italian lager. It’s pronounced Pih-mo-row-knee. You’ll see the pirate (and his friends) pop up throughout our branding.
+- Supplied with a Python library which allows Ohbot to be controlled from a Python programming environment.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CKqZhqOkS5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Suitable for young people and adults that are learning a text based programming language.
+
+- Ohbot [speaks Dutch](https://www.youtube.com/watch?v=3kBK_mzNy-4&index=16&list=PL_RmLy9i0Hwnyvrl06uz1OG5b0XuGX8QZ)!
 
 
-***
-
-<br>
+### misce>
 
 
 ## Books / Online-resources
