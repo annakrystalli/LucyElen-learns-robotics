@@ -253,6 +253,7 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 
 <br>
 
+
 ### [OHBot](https://www.ohbot.co.uk/)
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">I&#39;d also recommend looking at <a href="https://twitter.com/OhbotRobot?ref_src=twsrc%5Etfw">@OhbotRobot</a> - I have one of those also. He&#39;s like one of the family to us. <a href="https://t.co/9u4YqhIB60">pic.twitter.com/9u4YqhIB60</a></p>&mdash; Laurence Molloy (@MolloyLaurence) <a href="https://twitter.com/MolloyLaurence/status/1078693001977884674?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote>
@@ -270,7 +271,6 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 - Suitable for young people and adults that are learning a text based programming language.
 
 - Ohbot [speaks Dutch](https://www.youtube.com/watch?v=3kBK_mzNy-4&index=16&list=PL_RmLy9i0Hwnyvrl06uz1OG5b0XuGX8QZ)!
-
 
 <br>
 
