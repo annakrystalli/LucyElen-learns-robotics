@@ -294,6 +294,10 @@ te class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" di
 
 ### Jimu Robot
 
+- Simply follow the easy step-by-step 3D, 360° instructions found on the Jimu Robot App to get started.
+- Programming new actions is easy to do with our PRP (Pose Record, Play) system. Simply pose, record and play.
+- Another way to program your Jimu Robot is with Blockly coding. You can create simple to complex sequences. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ImO7a7bHtCk" frameborder="0" allow="accelerometer; autoplay;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
