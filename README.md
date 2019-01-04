@@ -1,6 +1,6 @@
 # LucyElen-learns-robotics
 
-The goal of LucyElen-learns-robotics is to collate information on learning Robotics.
+The goal of LucyElen-learns-robotics is to collate information on learning Robotics with a particular focus on communities in thhe wider Amsterdam area. Check our site to see what we've gathered so far.
 
 It's also an opportunity to learn about markdown, html, open source and collaboration!
 
