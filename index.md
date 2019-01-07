@@ -310,7 +310,8 @@ Marty is a fully programmable robot, designed to give kids a fun and hands-on in
 <blockquote class="twitter-tweet" data-lang="el"><p lang="en" dir="ltr">If we can add something, definitely check LEGO Mindstorms. They are great for learning robotics and we were able to prototype suspension for our rover. And when she&#39;s grown up, Turtle Rover would make for a great development platform for an advanced roboticist.</p>&mdash; Turtle Rover (@TurtleRover) <a href="https://twitter.com/TurtleRover/status/1081113886554636288?ref_src=twsrc%5Etfw">4 Ιανουαρίου 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<https://youtu.be/QS7iAhhMRHY>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QS7iAhhMRHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ***
 
